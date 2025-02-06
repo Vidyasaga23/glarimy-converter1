@@ -1,0 +1,23 @@
+{
+  "name": "glarimy-converter1",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Vidyasaga23/glarimy-converter1#readme",
+  "bugs": {
+    "url": "https://github.com/Vidyasaga23/glarimy-converter1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vidyasaga23/glarimy-converter1.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
